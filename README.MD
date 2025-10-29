@@ -1,6 +1,6 @@
 # Z80 Alpha Computer 
 
-Visão artística da PCB do Z80 Alpha Computer da WR-Kits, contendo desenho sem o esquemático, com a finalidade de facilitar o processo de montagem do kit.
+Representação ilustrativa da placa de circuito impresso (PCI) do computador Z80 Alpha (WR-Kits), com os componentes sem diagrama esquemático. O objetivo é fornecer uma visualização da disposição física dos elementos do kit, auxiliando na etapa de montagem e posicionamento dos componentes eletrônicos.
 
 As informações contidas no desenho, a lista de componentes, como montar e utilizar constam nos links abaixo:
 
